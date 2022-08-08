@@ -28,7 +28,7 @@ A command that displays a currently date and time
 
 
 
-##My contact
+## My contact
 
 [![Telegram](/Png%20for%20README/Teleram_logo.png)](https://t.me/marklar08)
 [![VK](/Png%20for%20README/VK_logo.png)](https://vk.com/marklar12089)
