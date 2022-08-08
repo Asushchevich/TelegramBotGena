@@ -11,18 +11,23 @@ And here are a couple of screenshots of the bot itself:
 
 #### Start Message
 ![](/Png%20for%20README/Start_bot.png)
+
 Start message
 #### 'What can I do' button
 ![](/Png%20for%20README/Help.png)
+
 A button that shows all the features of the bot and you can text me in Telegram (button at the bottom of the message)
 #### 'Info' button
 ![](/Png%20for%20README/Info.png)
+
 This is my simple weekly schedule.
 #### 'Joke' button
 ![](/Png%20for%20README/Joke.png)
+
 A command that displays a random joke from a prepared file
 #### 'Datetime' button
 ![](/Png%20for%20README/datetime.png)
+
 A command that displays a currently date and time
 
 
